@@ -7,4 +7,4 @@ I am currently working as an intern in The Sparks Foundation and finished this p
 <li>PHP
 <li>Bootstrap
 <li>MySQL
- <br> enjoyed these days working as an intern and finished project.The Sparks Foundation is a great platform to enhance your skills.
+ <br> I enjoyed these days working as an intern and finished project.The Sparks Foundation is a great platform to enhance your skills.
